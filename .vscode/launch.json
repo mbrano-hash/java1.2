@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HW54b",
+            "request": "launch",
+            "mainClass": "HW54b",
+            "projectName": "java1.2_db3c031"
+        },
+        {
+            "type": "java",
             "name": "HW54a",
             "request": "launch",
             "mainClass": "HW54a",
